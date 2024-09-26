@@ -83,3 +83,9 @@ Consider a network of six cities with predefined distances, weather, and traffic
 - Python 3.x
 - Libraries: `networkx`, `matplotlib`, `random`, `hashlib`, `heapq`
 
+
+### License
+
+```
+This project is licensed under the @2024 Umar Mohammad
+```
